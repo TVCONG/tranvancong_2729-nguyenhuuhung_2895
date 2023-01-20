@@ -1,4 +1,4 @@
-Project for Operating Systems 
+Projects for Operating Systems 
 
   - Advanced scheduler/Threads
   - Subdirectories/File System
